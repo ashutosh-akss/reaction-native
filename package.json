@@ -1,0 +1,14 @@
+{
+  "name": "reaction-native",
+  "version": "1.0.0",
+  "description": "navigation for cross platform react applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh Singh<ashutosh.akss@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.1"
+  }
+}
